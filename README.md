@@ -1,21 +1,21 @@
 ## 👋 Hi, I'm Ayush Acharya
 
-### Data Analyst | Data Scientist | AI Enthusiast
+### Aspiring Data Analyst | Data Scientist | AI Enthusiast
 
-I am a professional data analyst and data scientist with expertise in Python, SQL, Advanced Excel, Power BI, and PostgreSQL. I specialize in machine learning, deep learning, and NLP, with proficiency in Python libraries such as Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Plotly, Streamlit, and Langchain.
+I'm currently on a journey to master data science, machine learning, and artificial intelligence. With a strong foundation in Python, SQL, Advanced Excel, Power BI, and PostgreSQL, I'm consistently building my expertise in machine learning, deep learning, and NLP. I have hands-on experience with key Python libraries like Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Plotly, Streamlit, and Langchain.
 
 ### 💼 Experience
 
-I completed an internship at WryteAI, an Australian-based AI startup that helps users enhance their writing through advanced AI tools and techniques. Additionally, I completed a 3-month data analysis course at Data Profession Academy.
+I completed a 3-month **Data Analysis Certification** at [Data Profession Academy](https://dataprofessionacademy.com/), where I gained hands-on experience in data analysis, visualization, and model building. Following this, I interned at [WryteAI](https://wryteai.com/landing), an Australian-based AI startup, where I contributed to various data-driven projects and honed my skills in AI tools and techniques.
 
 ### 🚀 Projects
 
-- [Data Analysis App](https://data-analysis-project-1.streamlit.app/): A comprehensive app that handles end-to-end data analysis, including data cleaning, visualization, machine learning model creation, and a downloadable trained model. It also includes a sentiment analysis tool using Hugging Face models and a chatbot powered by OpenAI API to assist users with their CSV files.
+- [Data Analysis App](https://data-analysis-project-1.streamlit.app/): A comprehensive tool that performs end-to-end data analysis, including sentiment analysis, and provides a chatbot for CSV data queries.
 - [Movie Recommender App](https://best-movie-recommender.streamlit.app/): A personalized movie recommender system.
 
 ### 🧠 Interests
 
-I’m passionate about:
+I am passionate about:
 - Building AI models
 - Retrieval-Augmented Generation (RAG)
 - Generative AI
@@ -28,3 +28,7 @@ I’m passionate about:
 - Facebook: [Ayush Acharya](https://www.facebook.com/ayush.acharya.127/)
 - Instagram: [_acharya69](https://www.instagram.com/_acharya69/)
 - Email: [ayushach007@gmail.com](mailto:ayushach007@gmail.com)
+
+
+[Data Profession Academy](https://dataprofessionacademy.com/)
+[WryteAI](https://wryteai.com/landing)
